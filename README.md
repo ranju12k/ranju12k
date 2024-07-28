@@ -5,7 +5,7 @@
 - 💞️ I’m eager to collaborate on open-source projects and innovative web applications that make a difference.
 - 📫 You can reach me through email or connect with me on [LinkedIn](https://www.linkedin.com/in/ranjith-m-r-24473417a/).
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love solving puzzles, enjoy playing chess, and am an avid Android gamer!
+- ⚡ Fun fact: I love solving puzzles, enjoy playing chess, and am an avid Android gamer !
 
 <!---
 ranju12k/ranju12k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
