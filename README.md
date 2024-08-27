@@ -10,7 +10,7 @@
 
 😄 Pronouns: he/him
 
-⚡ Fun fact: I enjoy solving puzzles, playing chess, and I'm an avid Android gamer!
+⚡ Fun fact: I enjoy solving puzzles, playing chess, and I'm an avid Android gamer !
 
 <!---
 ranju12k/ranju12k is a ✨ special  ✨  repository because its `README.md` (this file) appears on your GitHub profile.
