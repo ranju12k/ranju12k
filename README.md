@@ -1,17 +1,28 @@
-# Hi, I'm @ranju12k
+# Hi, I'm Ranjith M R (a.k.a @ranju12k) 👋
 
-👀 I'm passionate about coding, web development, and always eager to explore new technologies.
+👀 Passionate about coding, crafting intuitive web applications, and constantly exploring new technologies to stay ahead in the tech world.  
 
-🌱 Currently, I'm diving into AngularJS for a company project and enhancing my skills in both front-end and back-end development [.NET Full Stack and the MERN stack].
+🌱 **What I’m Currently Learning:**  
+   - Deep diving into **AngularJS** for an exciting company project.  
+   - Mastering **MERN Stack** to enhance my full-stack development expertise.  
 
-💞️ I'm excited to collaborate on open-source projects and innovative web applications that make a positive impact.
+💻 **My Tech Stack Includes:**  
+   - Front-end: AngularJS, React.js, HTML, CSS, JavaScript  
+   - Back-end: Node.js, Express.js, .NET  
+   - Database: MongoDB, SQL Server  
 
-📫 You can reach me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/ranjith-m-r-24473417a/).
+💞️ Excited to collaborate on:  
+   - Open-source projects that contribute to the developer community.  
+   - Innovative web applications that make a meaningful impact.  
 
-😄 Pronouns: he/him
+📫 **Let’s Connect:**  
+   - Email: [ranjithmr74923@outlook.com](mailto:ranjithmr74923@outlook.com)  
+   - LinkedIn: [Ranjith M R](https://www.linkedin.com/in/ranjith-m-r-24473417a/)  
 
-⚡ Fun fact: I enjoy solving puzzles, playing chess, and I'm an avid Android gamer !
+😄 **Pronouns:** he/him  
 
-<!---
-ranju12k/ranju12k is a ✨ special  ✨  repository because its `README.md` appears on your GitHub profile.
---->
+⚡ **Fun Facts About Me:**  
+   - I love solving puzzles and playing chess.  
+   - A passionate Android gamer who enjoys the occasional strategy game!  
+
+Thanks for stopping by! 🚀  
