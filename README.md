@@ -16,7 +16,7 @@
    - Innovative web applications that make a meaningful impact.  
 
 📫 **Let’s Connect:**  
-   - Email: (mailto:ranjithmr74923@outlook.com)  
+   - Email: [Ranjith M R](mailto:ranjithmr74923@outlook.com)  
    - LinkedIn: [Ranjith M R](https://www.linkedin.com/in/ranjith-m-r-24473417a/)  
 
 😄 **Pronouns:** he/him  
