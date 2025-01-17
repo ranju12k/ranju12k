@@ -1,4 +1,4 @@
-# Hi, I'm Ranjith M R (a.k.a @ranju12k) 👋
+# Hi, I'm Ranjith M R (@ranju12k) 👋
 
 👀 Passionate about coding, crafting intuitive web applications, and constantly exploring new technologies to stay ahead in the tech world.  
 
