@@ -3,7 +3,7 @@
 👀 Passionate about coding, crafting intuitive web applications, and constantly exploring new technologies to stay ahead in the tech world.  
 
 🌱 **What I’m Currently Learning:**  
-   - Deep diving into **AngularJS** for an exciting company project.  
+   - Deep diving into **AngularJS, KendoUI, JQuery, AJAX** for an exciting company project.  
    - Mastering **MERN Stack** to enhance my full-stack development expertise.  
 
 💻 **My Tech Stack Includes:**  
